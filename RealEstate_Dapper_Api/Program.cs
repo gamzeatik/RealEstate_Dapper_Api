@@ -1,5 +1,5 @@
 using RealEstate_Dapper_Api.Models.DapperContext;
-using RealEstate_Dapper_Api.Repositories.CategoryRepository;
+using RealEstate_Dapper_Api.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
